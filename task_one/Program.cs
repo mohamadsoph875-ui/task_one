@@ -25,6 +25,7 @@ namespace task_one
             Console.WriteLine("cost=(3*25)+(1*35)= 110$" );
            
             Console.WriteLine("110+6.6 = 116.6$");
+            Console.WriteLine("110+6.6 = 116.6$");
 
         }
     }
